@@ -23,6 +23,17 @@ To begin writing queries, we'll require some data to work with. We can access a 
 
 ## Riding-the-Data-Pedel "SQL Querying"
 ### Questions
+1.What are the names of the stations that bike_id 1710 started from?
+
+2.How many bike_ids have ended at "Moor Street, Soho"?
+
+3.What is the station_id for "Canton Street, Poplar"?
+
+4.What is the name of the station whose ID is 111?
+
+5.How many distinct bike_ids had trip durations greater than 2400 seconds (or 40 minutes)?
+
+6.At what station did the bike trip with rental_id 57635395 end?
 
 <kbd>  ![](images/1.PNG)  </kbd>
 ---------------------------------
