@@ -35,6 +35,14 @@ To begin writing queries, we'll require some data to work with. We can access a 
 
 6.At what station did the bike trip with rental_id 57635395 end?
 
+7.Average duration 
+
+8. Higest Average durations for start_stations
+
+9 Top 5 Most used bikes
+
+10. top 5 Bikes with higest average duration
+
 ### Asnwers
 
 <kbd>  ![](images/1.PNG)  </kbd>
@@ -53,4 +61,16 @@ To begin writing queries, we'll require some data to work with. We can access a 
 ---------------------------------
 
 <kbd>  ![](images/6.PNG)  </kbd>
+---------------------------------
+
+<kbd>  ![](images/7.PNG)  </kbd>
+---------------------------------
+
+<kbd>  ![](images/8.PNG)  </kbd>
+---------------------------------
+
+<kbd>  ![](images/9.PNG)  </kbd>
+---------------------------------
+
+<kbd>  ![](images/10.PNG)  </kbd>
 ---------------------------------
