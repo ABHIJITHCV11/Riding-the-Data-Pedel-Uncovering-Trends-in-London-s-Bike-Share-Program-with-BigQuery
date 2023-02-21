@@ -5,6 +5,7 @@
 
 For this activity, we need a BigQuery account.
 BigQuery is a data warehouse on Google Cloud that data analysts can use to query, filter large datasets, aggregate results, and perform complex operations. 
+
 The [code](https://console.cloud.google.com/bigquery?sq=899801418164:40a4efd3ab644bcfa641979451262551) can be found here.
 ## Setting up BigQuery
 
@@ -45,7 +46,9 @@ To begin writing queries, we'll require some data to work with. We can access a 
 10. Which are the top 5 bikes with the highest average duration?
 
 ### Answers
+
 The [code](https://console.cloud.google.com/bigquery?sq=899801418164:40a4efd3ab644bcfa641979451262551) can be found here.
+
 <kbd>  ![](images/1.PNG)  </kbd>
 ---------------------------------
 
