@@ -35,6 +35,8 @@ To begin writing queries, we'll require some data to work with. We can access a 
 
 6.At what station did the bike trip with rental_id 57635395 end?
 
+### Asnwers
+
 <kbd>  ![](images/1.PNG)  </kbd>
 ---------------------------------
 
