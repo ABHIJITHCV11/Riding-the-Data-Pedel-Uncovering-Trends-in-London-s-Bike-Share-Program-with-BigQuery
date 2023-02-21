@@ -75,3 +75,12 @@ To begin writing queries, we'll require some data to work with. We can access a 
 
 <kbd>  ![](images/10.PNG)  </kbd>
 ---------------------------------
+
+## Top Takeaways from Analyzing London's Bike Share Program with BigQuery
+
+* A total of 13,678 distinct bike IDs had trip durations greater than 2400 seconds or 40 minutes.
+* The average bike rental duration in the program is 1332.29 seconds, which is equivalent to approximately 22 minutes.
+* Stewart's Road, Nine Elms had the highest average duration for start stations, with an average duration of 4836.38 seconds, or about 1 hour and 20 minutes.
+* The top 5 most used bikes in the program were bikes with IDs 3317, 9354, 2143, 9721, and 162, in descending order.
+* The top 5 bikes with the highest average duration were bikes with IDs 7246, 11896, 2143, 9605, and 6572, in descending order, with average durations ranging from about 2 hours to 10 hours.
+* Overall, the data suggests that some bikes are being used for much longer durations than others, indicating potential discrepancies in bike maintenance and replacement. Additionally, there are certain start stations where rides tend to last much longer, indicating potential differences in the types of trips taken from these locations.
