@@ -1,6 +1,14 @@
 # Riding-the-Data-Pedel :
 # Uncovering Trends in London's Bike Share Program with BigQuery
 
+## Introduction
+
+The "Riding-the-Data-Pedel-Uncovering-Trends-in-London-s-Bike-Share-Program-with-BigQuery" repository on GitHub is a project by ABHIJITHCV11 aimed at analyzing the bike share program in London using Google's BigQuery platform. The repository includes code and the analysis of bike share usage patterns and trends in London.
+
+The project uses BigQuery to query and analyze a large dataset of bike share trips, including data on trip duration, start and end locations, and user demographics. The analysis includes the use of SQL queries to aggregate and summarize the data.
+
+The repository contains detailed documentation with explanations of the analysis methods and results. The code is well-organized and easy to follow, making it a great resource for anyone interested in exploring data analysis with BigQuery and bike share data.
+
 ## BigQuery
 
 For this activity, we need a BigQuery account.
