@@ -10,6 +10,7 @@ The project uses BigQuery to query and analyze a large dataset of bike share tri
 The repository contains detailed documentation with explanations of the analysis methods and results. The code is well-organized and easy to follow, making it a great resource for anyone interested in exploring data analysis with BigQuery and bike share data.
 
 ## BigQuery
+<kbd>  ![](images/big.PNG)  </kbd>
 
 For this activity, we need a BigQuery account.
 BigQuery is a data warehouse on Google Cloud that data analysts can use to query, filter large datasets, aggregate results, and perform complex operations. 
@@ -22,6 +23,7 @@ The [code](https://console.cloud.google.com/bigquery?sq=899801418164:40a4efd3ab6
 3. On the left side,there is an Explorer menu; this includes a search bar that can used to find resources, pinned projects, and the + ADD DATA button. On the right side,  there is Query Editor. This is where you will input queries and view datasets. You can also find your Job History, Query History, and Saved Queries here. 
  
 ## Loading Data
+
 To begin writing queries, we'll require some data to work with. We can access a public dataset directly from our console, which makes it possible for us to start working with the data right away.
 
 1. Click on the + ADD DATA button in the Explorer menu and select Explore public datasets. This will open a new menu where you can search public datasets that are already available through Google Cloud. 
@@ -29,6 +31,12 @@ To begin writing queries, we'll require some data to work with. We can access a 
 3. From the dataset information page, click the blue VIEW DATASET button. This will open your console in a new tab with this dataset loaded. 
 4. Click on the arrow next to bigquery-public-data and scroll down the list of public datasets to find the london_bicycles data. When we click on the dataset, it will list two tables. Click on cycle_hire.
 5. After checking out the table schema, we can take a peek into what data the cycle_hire table contains by clicking on the Preview tab. This will give you a better idea of what kind of data you’ll be working with.
+
+<kbd>  ![](images/view.PNG)  </kbd>
+
+<kbd>  ![](images/market.PNG)  </kbd>
+
+<kbd>  ![](images/preview.PNG)  </kbd>
 
 ## Riding-the-Data-Pedel "SQL Querying"
 ### Questions
