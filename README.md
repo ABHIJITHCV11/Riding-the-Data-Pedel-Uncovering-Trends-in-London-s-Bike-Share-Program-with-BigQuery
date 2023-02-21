@@ -23,27 +23,28 @@ To begin writing queries, we'll require some data to work with. We can access a 
 
 ## Riding-the-Data-Pedel "SQL Querying"
 ### Questions
-1.What are the names of the stations that bike_id 1710 started from?
 
-2.How many bike_ids have ended at "Moor Street, Soho"?
+1. What are the names of the stations that bike_id 1710 started from?
 
-3.What is the station_id for "Canton Street, Poplar"?
+2. How many bike_ids have ended at "Moor Street, Soho"?
 
-4.What is the name of the station whose ID is 111?
+3. What is the station_id for "Canton Street, Poplar"?
 
-5.How many distinct bike_ids had trip durations greater than 2400 seconds (or 40 minutes)?
+4. What is the name of the station whose ID is 111?
 
-6.At what station did the bike trip with rental_id 57635395 end?
+5. How many distinct bike_ids had trip durations greater than 2400 seconds (or 40 minutes)?
 
-7.Average duration 
+6. At what station did the bike trip with rental_id 57635395 end?
 
-8. Higest Average durations for start_stations
+7. Average duration 
 
-9 Top 5 Most used bikes
+8. What are the start stations with the highest average durations?
 
-10. top 5 Bikes with higest average duration
+9. What are the top 5 Most used bikes
 
-### Asnwers
+10. Which are the top 5 bikes with the highest average duration?
+
+### Answers
 
 <kbd>  ![](images/1.PNG)  </kbd>
 ---------------------------------
