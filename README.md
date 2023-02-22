@@ -95,7 +95,7 @@ The [code](https://console.cloud.google.com/bigquery?sq=899801418164:40a4efd3ab6
 <kbd>  ![](images/10.PNG)  </kbd>
 ---------------------------------
 
-## Top Takeaways from Analyzing London's Bike Share Program with BigQuery
+## Top Takeaways 
 
 * A total of 13,678 distinct bike IDs had trip durations greater than 2400 seconds or 40 minutes.
 * The average bike rental duration in the program is 1332.29 seconds, which is equivalent to approximately 22 minutes.
